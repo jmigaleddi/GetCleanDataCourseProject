@@ -2,9 +2,6 @@
 
 ## Course Project Codebook: *tidy_data.txt*
 
-_The below descriptions have been sourced from the original data location, http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
-
-
 > The features selected for this
 > database come from the accelerometer
 > and gyroscope 3-axial raw signals
