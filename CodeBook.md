@@ -62,8 +62,8 @@
 
 The included set of variables that were estimated from these signals are: 
 
-mean(): Mean value
-std(): Standard deviation
+1. mean(): Mean value
+2. std(): Standard deviation
 
 **Reference:** [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#][1]
 
